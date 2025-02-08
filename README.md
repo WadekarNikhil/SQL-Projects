@@ -225,7 +225,7 @@ This project contains a collection of frequently used SQL queries for data analy
 ## 📜 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/SQL-Projects.git
+   git clone https://github.com/WadekarNikhil/SQL-Projects.git
    ```
 2. Navigate to a project folder and load the SQL script into your database.
 3. Run queries to explore insights.
